@@ -24,6 +24,9 @@
 
 ## Draw your imagination of this game. What does this game look like?
 
+![Screenshots of Game](https://github.com/RaymonStephanie/project-documents/blob/main/Screenshot%202020-12-07%20at%207.55.51%20PM.png)
+![Screenshots of Code](https://github.com/RaymonStephanie/project-documents/blob/main/Screenshot%202020-12-07%20at%207.57.00%20PM.png)
+![Screenshots of Code](https://github.com/RaymonStephanie/project-documents/blob/main/Screenshot%202020-12-07%20at%207.57.09%20PM.png)
 
 ## How do you plan to make your game engaging? 
 
