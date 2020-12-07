@@ -1,45 +1,30 @@
 # Game Design Document
 
-Write the title of your project.
+## Write the title of your project.
 
-To Code is A Crime
-
-
-What is the goal of the game? 
+> To Code is A Crime
 
 
+## What is the goal of the game? 
+
+> To create a sense of respect for developers amongst people, and demonstrate the hard work of a developer behind any webapp/website/app/os/anything.
 
 
-Write a brief story of your game?
+## Write a brief story of your game?
+
+> A boy is continuosly being mocked and taunted by his classmates and parents for being a developer and they try to sabotage his devices. The boy, knowing this, tries to save all his devices. The ideology of my game was inspired by Among Us, another tactical game which requires logical thinking.
+
+## Which are the playing characters of this game? 
+
+> The playing charecters are 8 users, including one player and 8 impostors.
+
+## Which are the Non Playing Characters of this game?
+
+> The non playing characters are the background, map, and other hurdles, including devices, which have to be found/sabotaged in order to end the game.
+
+## Draw your imagination of this game. What does this game look like?
 
 
+## How do you plan to make your game engaging? 
 
-
-
-
-
-Which are the playing characters of this game? 
-Playing characters are the ones which respond to the user based on the input from the user
-Cars, monkeys, dinos, wizards etc, are the playing characters in the game.  
-
-Which are the Non Playing Characters of this game?
-Non Playing characters are the ones which don't have an action or a behaviour when the user interacts with the game.
-Hurdles, stones, bananas, coins, etc are non playing characters in the game.   
-
-
-
-
-Draw your imagination of this game. What does this game look like?
-Draw the game either on your computer or on paper, 
-Add images of scenes of the game to show each of the playing and non-playing characters at least once.  
-
-
-
-
-
-
-
-How do you plan to make your game engaging? 
-
-
-
+> I plan to add user-mechanics to make the game engaging, along with a timer and some obstacles.
